@@ -1,0 +1,21 @@
+{
+  "name": "styledictionary",
+  "version": "1.0.0",
+  "description": "Config to generate styling for different usecases from design tokens",
+  "scripts": {
+    "generate": "style-dictionary build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thenightmanager/design-tokens-generation.git"
+  },
+  "author": "Nicolas Dunke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thenightmanager/design-tokens-generation/issues"
+  },
+  "homepage": "https://github.com/thenightmanager/design-tokens-generation#readme",
+  "dependencies": {
+    "style-dictionary": "^3.7.0"
+  }
+}
